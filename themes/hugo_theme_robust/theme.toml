@@ -5,8 +5,7 @@ description = "Robust is blog theme for hugo."
 tags = ["blog"]
 features = ["blog"]
 min_version = 0.15
-
+disqusShortname = "disqus_karenx"
 [author]
     name = "Daisuke Tsuji"
     homepage = "http://yet.unresolved.xyz/"
-
