@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![screenshot](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/master/images/screenshot.png)
 
 # Features
@@ -59,4 +60,6 @@ Contents here
 Please mail to `dim0627@gmail.com` or SNS.
 
 [https://www.facebook.com/daisuke.tsuji.735](https://www.facebook.com/daisuke.tsuji.735)
+=======
+>>>>>>> origin/master
 
